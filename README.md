@@ -67,9 +67,7 @@
 
 ## 📈 PERFORMANCE GRAPH
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&bg_color=0b1220&color=22d3ee&line=2f80ff&point=ff7a1a&area=true&area_color=2f80ff&hide_border=true&title_color=22d3ee&radius=12" alt="Contribution activity graph" width="100%" />
-</p>
+<p align="center"> <img src="assets/performance.svg" alt="Contribution performance graph" width="100%" /> </p>
 
 ## 🗓️ TRAINING LOG
 
