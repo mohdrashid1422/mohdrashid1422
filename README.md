@@ -65,10 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=mohdrashid1422&border_radius=12&background=0B1220&border=1E3A8A&stroke=1E3A8A&ring=FF7A1A&fire=FFD23F&currStreakNum=22D3EE&currStreakLabel=FF7A1A&sideNums=F1F5F9&sideLabels=22D3EE&dates=94A3B8" alt="Contribution streak" />
 </p>
 
-## 📈 PERFORMANCE GRAPH
-
-<p align="center"> <img src="assets/performance.svg" alt="Contribution performance graph" width="100%" /> </p>
-
 ## 🗓️ TRAINING LOG
 
 <p align="center">
@@ -76,12 +72,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f80ff,100:ff7a1a&height=4" width="100%" alt="divider" />
-
-## 🏆 TROPHY CABINET
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohdrashid1422&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
-</p>
 
 ## 🧩 LEETCODE LEAGUE TABLE
 
