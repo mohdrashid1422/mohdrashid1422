@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Rashid</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdrashid1422&label=Profile%20views&color=0e75b6&style=flat" alt="mohdrashid1422" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdrashid1422" alt="mohdrashid1422" /></a> </p>
 
 - 🔭 I’m currently working on [DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)
 
@@ -35,19 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&locale=en" alt="mohdrashid1422" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrashid1422&" alt="mohdrashid1422" /></p>
-## Hi there 👋
-
-<!--
-**mohdrashid1422/mohdrashid1422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
