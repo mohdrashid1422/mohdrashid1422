@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mohdrashid1422&label=PROFILE%20VIEWS&color=2f80ff&labelColor=0b1220&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/mohdrashid1422.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=2f80ff&labelColor=0b1220" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/mohdrashid1422?label=FOLLOWERS&style=for-the-badge&logo=github&color=ff7a1a&labelColor=0b1220" alt="Followers" />
 <img src="https://img.shields.io/github/stars/mohdrashid1422?label=STARS&style=for-the-badge&logo=github&color=22d3ee&labelColor=0b1220" alt="Stars" />
 
