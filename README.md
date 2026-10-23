@@ -69,11 +69,6 @@
 
 ---
 
-##  GitHub Contribution & Commit Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20%26%20Commit%20Activity" width="100%" alt="GitHub Contribution and Commit Activity Graph" />
-</p>
 
 ###  Contribution Calendar
 
@@ -89,17 +84,19 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/mohdrashid09/">
-    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=dark&font=Ubuntu&ext=heatmap" width="70%" alt="Mohd Rashid LeetCode Statistics and Submission Heatmap" />
+    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=dark&font=Ubuntu&ext=heatmap&border=0&radius=12" width="85%" alt="Mohd Rashid LeetCode Statistics" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/mohdrashid09/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://leetcode.com/u/mohdrashid09/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode Pro
 
 ## 🤝 Connect With Me
 
