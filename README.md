@@ -1,135 +1,142 @@
-# 👋 Hi, I'm Mohd Rashid
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h3 align="center"> Aspiring Backend Developer | Java & Spring Boot | DSA Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Mohd%20Rashid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=A%20passionate%20Backend%20Developer&descSize=20&descAlignY=58" alt="header" />
 
-<p align="center">
-  <a href="https://github.com/mohdrashid1422">
-    <img src="https://komarev.com/ghpvc/?username=mohdrashid1422&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-  </a>
+<a href="https://github.com/mohdrashid1422">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Rashid;Backend+Developer+%7C+Java+%26+Spring+Boot;Learning+DSA+%E2%80%A2+Building+%E2%80%A2+Collaborating;Every+bug+I+fix+teaches+me+something+new" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohdrashid1422&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/mohdrashid1422?label=Followers&style=flat&logo=github&color=6f42c1" alt="Followers" />
+<img src="https://img.shields.io/github/stars/mohdrashid1422?label=Stars&style=flat&logo=github&color=0e75b6" alt="Stars" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
+- 🌱 I’m currently learning **DSA using Java, Spring & Spring Boot**
+- 👯 I’m looking to collaborate on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
+- 💬 Ask me about **C, Java & JavaScript**
+- 📫 How to reach me: **[rmohd3883@gmail.com](mailto:rmohd3883@gmail.com)**
+- ⚡ Fun fact: **Every bug I fix teaches me something new, and every problem makes me a better developer.**
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/mohdrashid-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rmohd3883@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.leetcode.com/mohdrashid09" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/mohd_rashid1422" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/codex_rashid" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/rmohd3883" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/mohdrashid1422" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🛠️ Languages & Tools
 
--  Currently working on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
--  Learning **DSA using Java, Spring & Spring Boot**
--  Looking to collaborate on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
--  Ask me about **C, Java & JavaScript**
--  Focused on strengthening problem-solving skills and building backend applications
--  Reach me at **[rmohd3883@gmail.com](mailto:rmohd3883@gmail.com)**
--  Fun fact: Every bug I fix teaches me something new, and every problem makes me a better developer.
-
----
-
-##  Languages and Tools
-
-<p align="center">
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="45" alt="Spring" /></a>
-  <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,spring,mysql,postgres,postman,figma,git&perline=12" alt="Languages and tools" />
 </p>
 
 ---
 
-##  Featured Project
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Niraj-1804/AlgoViz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj-1804&repo=AlgoViz&theme=tokyonight&hide_border=true" alt="DSA Visualizer Project" />
-  </a>
-</p>
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrashid1422&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=en" alt="Most used languages" />
 
-##  GitHub Analytics
+<br/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrashid1422&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<img src="https://streak-stats.demolab.com?user=mohdrashid1422&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+</div>
 
 ---
 
-##  Contribution Streak
+## 📈 Contribution Activity Graph
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=mohdrashid1422&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-
-###  Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/mohdrashid1422">
-    <img src="https://ghchart.rshah.org/7C3AED/mohdrashid1422" alt="GitHub Contribution Calendar" width="100%" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution activity graph" width="100%" />
+</div>
 
 ---
 
-##  LeetCode Statistics
+## 🗓️ Contribution Calendar & Commit Activity
 
-<p align="center">
-  <a href="https://leetcode.com/u/mohdrashid09/">
-    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=dark&font=Ubuntu&ext=heatmap&border=0&radius=12" width="85%" alt="Mohd Rashid LeetCode Statistics" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/mohdrashid1422" alt="Contribution calendar" width="100%" />
+  <br/><br/>
+  <img src="https://github.com/mohdrashid1422/mohdrashid1422/raw/output/github-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://leetcode.com/u/mohdrashid09/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/mohdrashid09/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode Pro
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/mohdrashid-">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rmohd3883@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/mohdrashid09/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/codex_rashid">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/rmohd3883">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://codeforces.com/profile/mohd_rashid1422">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/mohdrashid1422/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
+> 🐍 The snake needs the workflow in `.github/workflows/snake.yml` (included). Until it runs once, the image will be blank.
 
 ---
 
-<p align="center">
-  <b> Keep learning. Keep building. Keep solving.</b>
-</p>
+## 📌 Featured Repositories
 
-<p align="center">
-  <i>Thanks for visiting my profile! Happy coding! </i>
-</p>
+<div align="center">
+
+<a href="https://github.com/Niraj-1804/AlgoViz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj-1804&repo=AlgoViz&theme=tokyonight&hide_border=true" alt="AlgoViz" />
+</a>
+<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your own repositories -->
+<a href="https://github.com/mohdrashid1422/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdrashid1422&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Repo 1" />
+</a>
+<a href="https://github.com/mohdrashid1422/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdrashid1422&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Repo 2" />
+</a>
+
+</div>
+
+---
+
+## 🧩 LeetCode Statistics
+
+<div align="center">
+  <a href="https://www.leetcode.com/mohdrashid09">
+    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  </a>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohdrashid1422&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+  </a>
+</div>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> Auto-updated by `.github/workflows/update-activity.yml` (included).
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=6F42C1&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+great+together" alt="Footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=100&section=footer" alt="footer" />
+
+</div>
