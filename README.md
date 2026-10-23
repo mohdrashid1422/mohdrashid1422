@@ -53,53 +53,41 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrashid1422&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=en" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mohdrashid1422&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
+  <img src="assets/stats.svg" alt="GitHub stats" width="49%" />
+  <img src="assets/languages.svg" alt="Most used languages" width="49%" />
+  <br/>
+  <img src="assets/streak.svg" alt="Contribution streak" width="49%" />
+  <img src="assets/featured.svg" alt="Featured repository" width="49%" />
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution activity graph" width="100%" />
+  <img src="assets/activity.svg" alt="Contribution activity graph" width="100%" />
 </div>
 
 ---
 
-## 🗓️ Contribution Calendar & Commit Activity
+## 🗓️ Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/mohdrashid1422" alt="Contribution calendar" width="100%" />
-  <br/><br/>
-  <img src="https://github.com/mohdrashid1422/mohdrashid1422/raw/output/github-snake.svg" alt="Snake animation" width="100%" />
+  <img src="assets/calendar.svg" alt="Contribution calendar" width="100%" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohdrashid1422/mohdrashid1422/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohdrashid1422/mohdrashid1422/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mohdrashid1422/mohdrashid1422/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
-
-> 🐍 The snake needs the workflow in `.github/workflows/snake.yml` (included). Until it runs once, the image will be blank.
 
 ---
 
-## 📌 Featured Repositories
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<a href="https://github.com/Niraj-1804/AlgoViz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj-1804&repo=AlgoViz&theme=tokyonight&hide_border=true" alt="AlgoViz" />
-</a>
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your own repositories -->
-<a href="https://github.com/mohdrashid1422/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdrashid1422&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Repo 1" />
-</a>
-<a href="https://github.com/mohdrashid1422/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdrashid1422&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Repo 2" />
-</a>
-
+  <img src="assets/trophies.svg" alt="GitHub trophies" width="100%" />
 </div>
 
 ---
@@ -108,17 +96,7 @@
 
 <div align="center">
   <a href="https://www.leetcode.com/mohdrashid09">
-    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohdrashid1422&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+    <img src="assets/leetcode.svg" alt="LeetCode statistics" width="70%" />
   </a>
 </div>
 
@@ -127,9 +105,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+_Recent activity appears here after the first workflow run._
 <!--END_SECTION:activity-->
-
-> Auto-updated by `.github/workflows/update-activity.yml` (included).
 
 ---
 
