@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohd Rashid
 
-<h3 align="center">🚀 Aspiring Backend Developer | Java & Spring Boot | DSA Enthusiast</h3>
+<h3 align="center"> Aspiring Backend Developer | Java & Spring Boot | DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/mohdrashid1422">
@@ -12,17 +12,17 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
-- 🌱 Learning **DSA using Java, Spring & Spring Boot**
-- 👯 Looking to collaborate on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
-- 💬 Ask me about **C, Java & JavaScript**
-- 🎯 Focused on strengthening problem-solving skills and building backend applications
-- 📫 Reach me at **[rmohd3883@gmail.com](mailto:rmohd3883@gmail.com)**
-- ⚡ Fun fact: Every bug I fix teaches me something new, and every problem makes me a better developer.
+-  Currently working on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
+-  Learning **DSA using Java, Spring & Spring Boot**
+-  Looking to collaborate on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
+-  Ask me about **C, Java & JavaScript**
+-  Focused on strengthening problem-solving skills and building backend applications
+-  Reach me at **[rmohd3883@gmail.com](mailto:rmohd3883@gmail.com)**
+-  Fun fact: Every bug I fix teaches me something new, and every problem makes me a better developer.
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p align="center">
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java" /></a>
@@ -42,7 +42,7 @@
 
 ---
 
-## 📌 Featured Project
+##  Featured Project
 
 <p align="center">
   <a href="https://github.com/Niraj-1804/AlgoViz">
@@ -52,37 +52,30 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrashid1422&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repos/mohdrashid1422?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/stars/mohdrashid1422?style=for-the-badge&logo=github&label=Stars%20Earned" alt="GitHub Stars" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrashid1422&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdrashid1422&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=mohdrashid1422&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 📈 Contribution & Commit Activity
+##  GitHub Contribution & Commit Activity
 
 <p align="center">
-  <a href="https://github.com/mohdrashid1422">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution and Commit Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20%26%20Commit%20Activity" width="100%" alt="GitHub Contribution and Commit Activity Graph" />
 </p>
 
-### 🗓️ Contribution Calendar
+###  Contribution Calendar
 
 <p align="center">
   <a href="https://github.com/mohdrashid1422">
@@ -92,36 +85,18 @@
 
 ---
 
-## 💻 LeetCode Statistics
+##  LeetCode Statistics
 
 <p align="center">
-  <a href="https://leetcode.com/mohdrashid09/">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <a href="https://leetcode.com/u/mohdrashid09/">
+    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=dark&font=Ubuntu&ext=heatmap" width="70%" alt="Mohd Rashid LeetCode Statistics and Submission Heatmap" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/mohdrashid09/">
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=mohdrashid09&theme=dark" alt="LeetCode Statistics" />
+  <a href="https://leetcode.com/u/mohdrashid09/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode Profile" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/mohdrashid09/">View my LeetCode Profile →</a>
-</p>
-
----
-
-## 🕹️ Recent Activity
-
-<p align="center">
-  <a href="https://github.com/mohdrashid1422?tab=overview&from=2026-10-01&to=2026-10-31">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&theme=tokyo-night&hide_border=true&custom_title=Recent%20GitHub%20Activity" alt="Recent GitHub Activity" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohdrashid1422?tab=activity">🔎 Explore my complete GitHub activity</a>
 </p>
 
 ---
@@ -135,7 +110,7 @@
   <a href="mailto:rmohd3883@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/mohdrashid09/">
+  <a href="https://leetcode.com/u/mohdrashid09/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/codex_rashid">
@@ -155,9 +130,9 @@
 ---
 
 <p align="center">
-  <b>💜 Keep learning. Keep building. Keep solving.</b>
+  <b> Keep learning. Keep building. Keep solving.</b>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! Happy coding! 🚀</i>
+  <i>Thanks for visiting my profile! Happy coding! </i>
 </p>
