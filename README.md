@@ -1,23 +1,29 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:c4b5fd,100:a5f3fc&height=240&section=header&text=Mohd%20Rashid&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20A%20passionate%20Backend%20Developer%20%E2%9C%A8&descSize=20&descColor=ffffff&descAlignY=58&animation=fadeIn" alt="Mohd Rashid - Backend Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b1220,55:1d4ed8,100:ff7a1a&height=240&section=header&text=MOHD%20RASHID&fontSize=64&fontColor=ffffff&fontAlign=30&fontAlignY=42&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20SPRING%20BOOT&descSize=17&descColor=ffd23f&descAlign=30&descAlignY=63&animation=fadeIn" alt="Mohd Rashid - Backend Developer" width="100%" />
 
 <a href="https://github.com/mohdrashid1422">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1200&color=9D7CD8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Rashid+%F0%9F%8C%B8;Backend+Developer+%E2%98%95+Java+%26+Spring+Boot;Learning+DSA+one+problem+at+a+time+%F0%9F%8C%B1;Every+bug+I+fix+teaches+me+something+new+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Teko&weight=700&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Rashid;Backend+Developer+%7C+Java+%26+Spring+Boot;Training+DSA+every+single+day+%F0%9F%8F%8B%EF%B8%8F;Every+bug+I+fix+makes+me+a+stronger+developer" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=mohdrashid1422&label=PROFILE%20VIEWS&color=f9a8d4&labelColor=c4b5fd&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/mohdrashid1422?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=a5b4fc&labelColor=c4b5fd" alt="Followers" />
-<img src="https://img.shields.io/github/stars/mohdrashid1422?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=fbcfe8&labelColor=f9a8d4" alt="Stars" />
+<img src="https://img.shields.io/badge/POSITION-BACKEND%20DEVELOPER-2f80ff?style=for-the-badge&labelColor=0b1220" alt="Position" />
+<img src="https://img.shields.io/badge/TRAINING-DSA%20%7C%20JAVA%20%7C%20SPRING%20BOOT-ff7a1a?style=for-the-badge&labelColor=0b1220" alt="Training" />
+<img src="https://img.shields.io/badge/CURRENT%20MATCH-DSA%20VISUALIZER-ffd23f?style=for-the-badge&labelColor=0b1220" alt="Current match" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohdrashid1422&label=PROFILE%20VIEWS&color=2f80ff&labelColor=0b1220&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/mohdrashid1422?label=FOLLOWERS&style=for-the-badge&logo=github&color=ff7a1a&labelColor=0b1220" alt="Followers" />
+<img src="https://img.shields.io/github/stars/mohdrashid1422?label=STARS&style=for-the-badge&logo=github&color=22d3ee&labelColor=0b1220" alt="Stars" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbcfe8,50:c4b5fd,100:a5f3fc&height=4" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f80ff,100:ff7a1a&height=4" width="100%" alt="divider" />
 
-## 🌸 About Me
+## 🏟️ PLAYER PROFILE
 
 - 🔭 I’m currently working on **[DSA Visualizer](https://github.com/Niraj-1804/AlgoViz)**
 - 🌱 I’m currently learning **DSA using Java, Spring & Spring Boot**
@@ -26,87 +32,87 @@
 - 📫 How to reach me: **[rmohd3883@gmail.com](mailto:rmohd3883@gmail.com)**
 - ⚡ Fun fact: **Every bug I fix teaches me something new, and every problem makes me a better developer.**
 
-## 💌 Connect With Me
+## 📡 CONNECT WITH ME
 
 <p align="left">
-  <a href="https://linkedin.com/in/mohdrashid-"><img src="https://img.shields.io/badge/LinkedIn-a5b4fc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rmohd3883@gmail.com"><img src="https://img.shields.io/badge/Gmail-fda4af?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.leetcode.com/mohdrashid09"><img src="https://img.shields.io/badge/LeetCode-fdba74?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/mohd_rashid1422"><img src="https://img.shields.io/badge/Codeforces-93c5fd?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/codex_rashid"><img src="https://img.shields.io/badge/CodeChef-d8b4a0?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://www.hackerrank.com/rmohd3883"><img src="https://img.shields.io/badge/HackerRank-86efac?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/mohdrashid1422"><img src="https://img.shields.io/badge/GeeksforGeeks-6ee7b7?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://linkedin.com/in/mohdrashid-"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
+  <a href="mailto:rmohd3883@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b1220?style=for-the-badge&logo=gmail&logoColor=ff7a1a" alt="Gmail" /></a>
+  <a href="https://www.leetcode.com/mohdrashid09"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=ffd23f" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/mohd_rashid1422"><img src="https://img.shields.io/badge/Codeforces-0b1220?style=for-the-badge&logo=codeforces&logoColor=22d3ee" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/codex_rashid"><img src="https://img.shields.io/badge/CodeChef-0b1220?style=for-the-badge&logo=codechef&logoColor=ff7a1a" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/rmohd3883"><img src="https://img.shields.io/badge/HackerRank-0b1220?style=for-the-badge&logo=hackerrank&logoColor=22d3ee" alt="HackerRank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/mohdrashid1422"><img src="https://img.shields.io/badge/GeeksforGeeks-0b1220?style=for-the-badge&logo=geeksforgeeks&logoColor=ffd23f" alt="GeeksforGeeks" /></a>
 </p>
 
-## 🧁 Languages & Tools
+## 🎽 EQUIPMENT
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,spring,mysql,postgres,postman,figma,git&perline=12&theme=light" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,spring,mysql,postgres,postman,figma,git&perline=12&theme=dark" alt="Languages and tools" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a5f3fc,50:c4b5fd,100:fbcfe8&height=4" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7a1a,100:2f80ff&height=4" width="100%" alt="divider" />
 
-## ☁️ GitHub Analytics
+## 📊 SEASON STATS
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&include_all_commits=true&count_private=true&border_radius=16&title_color=9d7cd8&text_color=5b4b7a&icon_color=f472b6&bg_color=fdf4ff&border_color=e9d5ff" alt="GitHub stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrashid1422&layout=compact&langs_count=8&border_radius=16&title_color=9d7cd8&text_color=5b4b7a&bg_color=fdf4ff&border_color=e9d5ff" alt="Most used languages" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=mohdrashid1422&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&title_color=22d3ee&text_color=f1f5f9&icon_color=ff7a1a&bg_color=0b1220&border_color=1e3a8a" alt="GitHub stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrashid1422&layout=compact&langs_count=8&border_radius=12&title_color=22d3ee&text_color=f1f5f9&bg_color=0b1220&border_color=1e3a8a" alt="Most used languages" />
 </p>
 
-## 🔥 Contribution Streak
+## 🔥 WINNING STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdrashid1422&border_radius=16&background=FDF4FF&border=E9D5FF&stroke=E9D5FF&ring=F472B6&fire=FB923C&currStreakNum=9D7CD8&currStreakLabel=F472B6&sideNums=5B4B7A&sideLabels=9D7CD8&dates=8B7BA8" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=mohdrashid1422&border_radius=12&background=0B1220&border=1E3A8A&stroke=1E3A8A&ring=FF7A1A&fire=FFD23F&currStreakNum=22D3EE&currStreakLabel=FF7A1A&sideNums=F1F5F9&sideLabels=22D3EE&dates=94A3B8" alt="Contribution streak" />
 </p>
 
-## 🌈 Contribution Activity Graph
+## 📈 PERFORMANCE GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&bg_color=fdf4ff&color=9d7cd8&line=c4b5fd&point=f472b6&area=true&area_color=f9a8d4&hide_border=true&title_color=9d7cd8&radius=16" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrashid1422&bg_color=0b1220&color=22d3ee&line=2f80ff&point=ff7a1a&area=true&area_color=2f80ff&hide_border=true&title_color=22d3ee&radius=12" alt="Contribution activity graph" width="100%" />
 </p>
 
-## 🗓️ Contribution Calendar
+## 🗓️ TRAINING LOG
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/9d7cd8/mohdrashid1422" alt="Contribution calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/2f80ff/mohdrashid1422" alt="Contribution calendar" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbcfe8,50:c4b5fd,100:a5f3fc&height=4" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f80ff,100:ff7a1a&height=4" width="100%" alt="divider" />
 
-## 🏅 GitHub Trophies
+## 🏆 TROPHY CABINET
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohdrashid1422&theme=flat&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdrashid1422&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
 </p>
 
-## 🧩 LeetCode Statistics
+## 🧩 LEETCODE LEAGUE TABLE
 
 <p align="center">
   <a href="https://www.leetcode.com/mohdrashid09">
-    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=light&ext=heatmap" alt="LeetCode statistics" width="70%" />
+    <img src="https://leetcard.jacoblin.cool/mohdrashid09?theme=dark&ext=heatmap" alt="LeetCode statistics" width="70%" />
   </a>
 </p>
 
-## 📌 Featured Repository
+## 📌 FEATURED MATCH
 
 <p align="center">
   <a href="https://github.com/Niraj-1804/AlgoViz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj-1804&repo=AlgoViz&border_radius=16&title_color=9d7cd8&text_color=5b4b7a&icon_color=f472b6&bg_color=fdf4ff&border_color=e9d5ff" alt="AlgoViz" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj-1804&repo=AlgoViz&border_radius=12&title_color=22d3ee&text_color=f1f5f9&icon_color=ff7a1a&bg_color=0b1220&border_color=ff7a1a" alt="AlgoViz" />
   </a>
 </p>
 
-## ⚡ Recent Activity
+## ⚡ MATCH HISTORY
 
 <p align="center">
-  <a href="https://github.com/mohdrashid1422?tab=overview"><img src="https://img.shields.io/badge/✨%20VIEW%20RECENT%20ACTIVITY-c4b5fd?style=for-the-badge&logo=github&logoColor=white" alt="Recent activity" /></a>
-  <a href="https://github.com/mohdrashid1422?tab=repositories"><img src="https://img.shields.io/badge/🌸%20ALL%20REPOSITORIES-f9a8d4?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/mohdrashid1422?tab=overview"><img src="https://img.shields.io/badge/VIEW%20RECENT%20ACTIVITY-2f80ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="Recent activity" /></a>
+  <a href="https://github.com/mohdrashid1422?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOSITORIES-ff7a1a?style=for-the-badge&logo=git&logoColor=white&labelColor=0b1220" alt="Repositories" /></a>
 </p>
 
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&pause=1500&color=F472B6&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!+%F0%9F%8C%B8;Let's+build+something+beautiful+together+%E2%9C%A8" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Teko&weight=700&size=22&pause=1500&color=FF7A1A&center=true&vCenter=true&width=650&lines=FULL+TIME+%E2%80%A2+Thanks+for+visiting!;Let's+build+something+great+together" alt="Footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a5f3fc,50:c4b5fd,100:fbc2eb&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff7a1a,45:1d4ed8,100:0b1220&height=110&section=footer" alt="footer" width="100%" />
 
 </div>
